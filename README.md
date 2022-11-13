@@ -9,7 +9,7 @@
 - Exception handling
 
 - Used DTOs
-- 
+
 - Pagination and Sorting
 
 - Framework & Language: SpringBoot, IntelliJ, Java, MySQL, Spring Data JPA, Postman
