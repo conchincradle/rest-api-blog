@@ -2,9 +2,15 @@
 
 - Built CRUD REST API
 
+- Used Spring Data JPA to do query methods in MySQL
+
 - Login and Signup
 
 - Exception handling
+
+- Used DTOs
+
+- Framework & Language: SpringBoot, IntelliJ, Java, MySQL, Spring Data JPA, Postman
 
 
 learning rest api by blog application
